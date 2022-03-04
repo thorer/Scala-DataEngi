@@ -20,3 +20,5 @@
   A bad model and works on the IA.
 
 **4)Peaceland has likely forgotten some technical information in the report sent by thedrone. In the future, this information could help Peaceland make its peacewatchersmuch more efficient. Which information?**
+
+There are no date on the collected data. And this information can be usefull for statistics
