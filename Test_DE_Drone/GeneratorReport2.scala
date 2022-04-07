@@ -11,3 +11,17 @@ object GeneratorReport2 {
     "Trudie", "Diane", "Trevor", "Pia")
   
   
+ 
+  
+  def create_random_citizen() = {
+    val random = scala.util.Random
+    val Nom = nom(random.nextInt(nom.length))
+    val Score = random.nextInt(100)
+
+    People(Nom, Score)
+
+  }
+
+
+}
+  
